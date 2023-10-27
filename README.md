@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Jorge Valderrama
-- 👀 I’m interested in Agile software development, continuous improvement and Bitcoin
-- 🌱 I’m currently learning about the lightning network
+- 👀 I’m interested in Agile software development, Strong engineering principles and practices, and Software Architecture
+- 🌱 I’m currently learning Python, Rust, and how to play Tennis (making a very slow progress)
